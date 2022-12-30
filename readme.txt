@@ -30,10 +30,3 @@ Step 5 - Go to your UAE's Post widget.
 Step 5 - From skin type select custom skin.
 
 Step 5 - Save it and you are done!
-
-= 1.0.1 =
-* Fix: Filterable Tabs not working.
-* Fix: JS console error.
-
-= 1.0.0 =
-* Initial Release.
